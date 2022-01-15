@@ -7,7 +7,7 @@
 - [Jacob Seidman](https://sites.google.com/site/victormpreciado/publications/group) (University of Pennsylvania, <seidj@seas.upenn.edu>)
 - [Georgios Kissas](https://scholar.google.com/citations?user=PEwbH74AAAAJ&hl=en) (University of Pennsylvania, <gkissas@seas.upenn.edu>)
 
-![Learning from functional data](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/raw/main/op_sketch.pdf)
+![Learning from functional data](op_sketch.png)
 
 ### Schedule
 
