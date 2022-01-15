@@ -37,6 +37,14 @@ Advanced topics: attention-based architectures; Applications to optimal control 
 
 
 
+To cite this repository:
 
-
+    @misc{perdikaris2022tripods,
+      author = {Perdikaris, Paris and Seidman, Jacob and Kissas, Georgios},
+      title = {Supervised Learning in Function Spaces},
+      year = {2022},
+      publisher = {GitHub},
+      journal = {GitHub repository},
+      howpublished = {\url{https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022}}
+    }
 
