@@ -13,16 +13,16 @@
 
 #### Part 1 (11:00am-12:15pm EST)
 
-[Slides](), [Code]()
+[Video](), [Slides](), [Code]()
 
 #### Part 2 (12:30pm-1:30pm EST)
-[Slides](), [Code]()
+[Video](), [Slides](), [Code]()
 
 #### Part 3 (2:30pm-3:30pm EST)
-[Slides](), [Code]()
+[Video](), [Slides](), [Code]()
 
 #### Part 4 (3:45pm-5:00pm EST)
-[Slides](), [Code]()
+[Video](), [Slides](), [Code]()
 
 
 
