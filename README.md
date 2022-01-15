@@ -1,6 +1,6 @@
 # TRIPODS Winter School & Workshop on Interplay between Artificial Intelligence (AI) and Dynamical Systems
 
-## Practicum on Supervised Learning in Function Spaces, *January 18th-21st, 2022*.
+## Practicum on Supervised Learning in Function Spaces, *January 21st, 2022*.
 
 ### Instructors: 
 - [Paris Peridkaris](https://directory.seas.upenn.edu/paris-perdikaris/) (University of Pennsylvania, <pgp@seas.upenn.edu>)
