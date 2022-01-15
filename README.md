@@ -13,15 +13,26 @@
 
 #### Part 1 (11:00am-12:15pm EST)
 
+Functional data and applications; Supervised learning in function spaces; Parametric vs non-parametric approaches; Applications highlights; Introduction to [JAX](https://github.com/google/jax).
+
 [Video](), [Slides](), [Code]()
 
 #### Part 2 (12:30pm-1:30pm EST)
+
+Deep operator networks (DeepONets): Formulation, theory, implementation aspects and applications.
+
 [Video](), [Slides](), [Code]()
 
 #### Part 3 (2:30pm-3:30pm EST)
+
+Fourier Neural Operators: Formulation, theory, implementation aspects and applications.
+
 [Video](), [Slides](), [Code]()
 
 #### Part 4 (3:45pm-5:00pm EST)
+
+Advanced topics: attention-based architectures; applications to optimal control and climate modeling; Open challenges; Concluding remarks & discsussion.
+
 [Video](), [Slides](), [Code]()
 
 
