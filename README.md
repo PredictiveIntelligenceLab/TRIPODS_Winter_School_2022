@@ -31,7 +31,7 @@ Fourier Neural Operators: Formulation, theory, implementation aspects and applic
 
 #### Part 4 (3:45pm-5:00pm EST)
 
-Advanced topics: attention-based architectures; Applications to optimal control and climate modeling; Open challenges; Concluding remarks & discsussion.
+Advanced topics: attention-based architectures; Applications to optimal control and climate modeling; Open challenges; Concluding remarks & discussion.
 
 [Video](), [Slides](), [Code]()
 
