@@ -48,3 +48,5 @@ To cite this repository:
       howpublished = {\url{https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022}}
     }
 
+## Caution: ⚠️The provided DeepONet and FNO implementations cannot be used for commercial purposes (due to a patent by Brown University).⚠️
+
