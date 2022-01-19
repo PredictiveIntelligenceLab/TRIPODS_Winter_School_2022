@@ -3,7 +3,7 @@
 ## Practicum on Supervised Learning in Function Spaces, *January 21st, 2022*.
 
 ### Instructors: 
-- [Paris Peridkaris](https://directory.seas.upenn.edu/paris-perdikaris/) (University of Pennsylvania, <pgp@seas.upenn.edu>)
+- [Paris Perdikaris](https://directory.seas.upenn.edu/paris-perdikaris/) (University of Pennsylvania, <pgp@seas.upenn.edu>)
 - [Jacob Seidman](https://sites.google.com/site/victormpreciado/publications/group) (University of Pennsylvania, <seidj@sas.upenn.edu>)
 - [Georgios Kissas](https://scholar.google.com/citations?user=PEwbH74AAAAJ&hl=en) (University of Pennsylvania, <gkissas@seas.upenn.edu>)
 
