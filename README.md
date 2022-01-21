@@ -15,25 +15,25 @@
 
 Functional data and applications; Supervised learning in function spaces; Parametric vs non-parametric approaches; Applications highlights; Introduction to [JAX](https://github.com/google/jax).
 
-[Video](), [Slides](), [Code]()
+[Video](), [Slides](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/Part%201.pdf), [Code](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/JAX.ipynb)
 
 #### Part 2 (12:30pm-1:30pm EST)
 
 Deep operator networks (DeepONets): Formulation, theory, implementation aspects and applications.
 
-[Video](), [Slides](), [Code]()
+[Video](), [Slides](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/Part%202.pdf), [Code](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/DeepONets.ipynb)
 
 #### Part 3 (2:30pm-3:30pm EST)
 
 Fourier Neural Operators: Formulation, theory, implementation aspects and applications.
 
-[Video](), [Slides](), [Code]()
+[Video](), [Slides](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/Part%203.pdf), [Code](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/FNOs.ipynb)
 
 #### Part 4 (3:45pm-5:00pm EST)
 
 Advanced topics: attention-based architectures; Applications to optimal control and climate modeling; Open challenges; Concluding remarks & discussion.
 
-[Video](), [Slides](), [Code]()
+[Video](), [Slides](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/Part%204.pdf)
 
 
 
