@@ -35,7 +35,9 @@ Advanced topics: attention-based architectures; Applications to optimal control 
 
 [Video](), [Slides](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/Part%204.pdf)
 
-
+#### Data-sets:
+- [Training data](https://drive.google.com/file/d/1y8K-etpDJ2IbsDvINIs8vqi_6C5WcHN9/view?usp=sharing) for the Darcy problem.
+- [Testing data](https://drive.google.com/file/d/1s0UmI-p5mcT70Lxd8hgYZV6A2-FiEsxA/view?usp=sharing) for the Darcy problem.
 
 To cite this repository:
 
