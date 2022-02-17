@@ -15,25 +15,25 @@
 
 Functional data and applications; Supervised learning in function spaces; Parametric vs non-parametric approaches; Applications highlights; Introduction to [JAX](https://github.com/google/jax).
 
-[Video](), [Slides](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/Part%201.pdf), [Code](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/JAX.ipynb)
+[Video](https://www.youtube.com/watch?v=xai-4TT6yoQ), [Slides](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/Part%201.pdf), [Code](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/JAX.ipynb)
 
 #### Part 2 (12:30pm-1:30pm EST)
 
 Deep operator networks (DeepONets): Formulation, theory, implementation aspects and applications.
 
-[Video](), [Slides](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/Part%202.pdf), [Code](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/DeepONets.ipynb)
+[Video](https://www.youtube.com/watch?v=p5InAx-vDwQ), [Slides](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/Part%202.pdf), [Code](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/DeepONets.ipynb)
 
 #### Part 3 (2:30pm-3:30pm EST)
 
 Fourier Neural Operators: Formulation, theory, implementation aspects and applications.
 
-[Video](), [Slides](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/Part%203.pdf), [Code](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/FNOs.ipynb)
+[Video](https://www.youtube.com/watch?v=gq1bqAdCIcg), [Slides](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/Part%203.pdf), [Code](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/FNOs.ipynb)
 
 #### Part 4 (3:45pm-5:00pm EST)
 
 Advanced topics: attention-based architectures; Applications to optimal control and climate modeling; Open challenges; Concluding remarks & discussion.
 
-[Video](), [Slides](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/Part%204.pdf)
+[Video](https://www.youtube.com/watch?v=8xRJ_G7AxKs), [Slides](https://github.com/PredictiveIntelligenceLab/TRIPODS_Winter_School_2022/blob/main/Part%204.pdf)
 
 #### Data-sets:
 - [Training data](https://drive.google.com/file/d/1y8K-etpDJ2IbsDvINIs8vqi_6C5WcHN9/view?usp=sharing) for the Darcy problem.
